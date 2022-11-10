@@ -2,7 +2,7 @@
 
 Docker baseline image for golang programs
 
-- add TZData
+- add TZData (TZ=xxx/xxx)
 - add ca-certificates
 - add vim
 - add ping
